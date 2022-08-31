@@ -1,0 +1,15 @@
+.container{
+    width: 30%;
+    margin: auto;
+}
+.container .input-group input[type="text"]{
+    border-radius: 4rem;
+    padding: 1rem 1.8rem;
+    font-size: 1.5rem;
+}
+table tr th{
+    font-size: 1.5rem;
+}
+table tr td{
+    font-size: 1.5rem;
+}

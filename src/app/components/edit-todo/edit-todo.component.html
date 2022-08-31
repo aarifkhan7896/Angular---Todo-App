@@ -1,0 +1,11 @@
+<form class="text-center mt-5" [formGroup]="myform" (ngSubmit)="edit()">
+  <div class="input-group mb-3">
+    <input
+      type="text"
+      class="form-control py-2 fs-3"
+      placeholder="Enter todo..."
+      formControlName="todo"
+    />
+    <input type="submit" value="Update" class="btn btn-outline-success fs-5" />
+  </div>
+</form>
