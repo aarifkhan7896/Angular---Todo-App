@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "todo": "Buy Milk 1L",
+      "id": 1
+    },
+    {
+      "todo": "Buy Mango 2kg",
+      "id": 2
+    }
+  ]
+}
